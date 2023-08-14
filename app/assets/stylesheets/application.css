@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ #btn_submit {
+  background-color: pink;
+  padding: 1%;
+  border-radius: 5%;
+ }
+
+ .input_container {
+  padding: 1%;
+ }
+
+ .header_container {
+  padding: 1%;
+ }
